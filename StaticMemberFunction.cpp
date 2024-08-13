@@ -69,5 +69,6 @@ int main(){
 
    c1.display();
 
+   cout<<"TOTAL BALANCE IS ";
    Customer::accessBalance();
 }
