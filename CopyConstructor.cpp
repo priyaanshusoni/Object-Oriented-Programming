@@ -6,7 +6,7 @@ using namespace std;
     public:
 
 
-         string name ;
+        string name ;
         string dept ;
         string subject;
         double salary ;

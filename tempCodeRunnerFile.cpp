@@ -1,1 +1,2 @@
-   // c2.display();
+
+ Student A2;
